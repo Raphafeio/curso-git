@@ -21,7 +21,7 @@ function App() {
         <b>
           Profª Letícia Pieper
         </b>
-        <p><b> Aluno: Joaquim - 2º semestre </b></p>
+        <p><b> Aluno: Raphael Ricardo - 3º semestre </b></p>
       </header>
     </div>
   );
